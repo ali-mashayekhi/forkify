@@ -131,6 +131,10 @@ async function controlAddRecipe(newRecipeData) {
   }
 }
 
+function newFeature() {
+  console.log('Welcome');
+}
+
 function init() {
   bookmarkView.addHandlerRender(controlBookmark);
   recipeView.addHandlerRender(controlRecipes);
@@ -139,6 +143,7 @@ function init() {
   searchView.addHandlerRender(controlSearchResults);
   paginationView.addHandlerRender(controlPagination);
   addRecepeView.addHandlerUpload(controlAddRecipe);
+  newFeature();
 }
 init();
 
