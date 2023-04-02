@@ -42,9 +42,7 @@ class RecipeView extends View {
               <use href="${icons}#icon-check"></use>
             </svg>
             <div class="recipe__quantity">${
-              currentList.quantity
-                ? new Fraction(currentList.quantity).toString()
-                : ''
+              currentList.quantity ? currentList.quantity : ''
             }</div>
             <div class="recipe__description">
               <span class="recipe__unit">${currentList.unit}</span>
