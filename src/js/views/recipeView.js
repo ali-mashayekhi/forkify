@@ -1,7 +1,5 @@
 import icons from 'url:../../img/icons.svg';
-import { Fraction } from 'fractional';
 import View from './view';
-import { API_KEY } from '../config';
 
 class RecipeView extends View {
   // Properties
