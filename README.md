@@ -5,24 +5,30 @@ Forkify is a recipe web app using the Forkify API to allow users to search, view
 ## Table of contents
 
 - [Overview](#overview)
+  - [Introduction](#introduction)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Built with](#built-with)
 - [Author](#author)
 
 ## Overview
 
+### Introduction
+
+This is a educational project from Jonas Schmedtmann Udemy course.
+
+
 ### Links
 
 - View DEMO: [https://forkify-alimaha.netlify.app]
+- [Jonas Schmedtmann](https://github.com/jonasschmedtmann)
 
-## My process
+## Built with
 
-### Built with
+- HTML5
+- CSS
+- Vannila Javascript
+- Parcel
 
-- Semantic HTML5 markup
-- CSS custom properties
-- CSS Grid
 
 ## Author
 
