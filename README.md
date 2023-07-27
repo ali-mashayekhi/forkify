@@ -1,6 +1,6 @@
 # Forkify Application
 
-Recipe application with feature of adding new recipes
+Forkify is a recipe web app using the Forkify API to allow users to search, view, modify, bookmark and add recipes.
 
 ## Table of contents
 
@@ -14,7 +14,7 @@ Recipe application with feature of adding new recipes
 
 ### Links
 
-- Solution URL: [https://forkify-alimaha.netlify.app]
+- View DEMO: [https://forkify-alimaha.netlify.app]
 
 ## My process
 
